@@ -4,9 +4,9 @@
 
 ### I build backend systems, APIs, and product infrastructure that hold up in production.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mrashed.menrcore.com)
-[![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iiMuhammadRashed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rashed-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammadrashed-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://mrashed.menrcore.com)
+[![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iiMuhammadRashed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rashed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrashed-/)
 
 </div>
 
@@ -16,58 +16,82 @@
 
 Backend-first software developer based in Alexandria, Egypt.
 
-* Co-founder at **Merncore**
-* Advanced Backend Developer Bootcamp @ **Elevate**
-* Business Information Systems background
-* Full-stack diploma from **Route Academy**
+- Co-founder at **Merncore**
+- Advanced Backend Developer Bootcamp @ **Elevate**
+- Business Information Systems background
+- Full-stack diploma from **Route Academy**
 
 ## What I Build
 
 Systems that need to be reliable, scalable, and easy to operate.
 
-* REST APIs and backend services
-* Authentication, authorization, and RBAC
-* Admin dashboards and internal tools
-* Database design and performance tuning
-* Deployment, Linux servers, Nginx, PM2, and CI/CD pipelines
+- REST APIs and backend services
+- Authentication, authorization, and RBAC
+- Admin dashboards and internal tools
+- Database design and performance tuning
+- Deployment, Linux servers, Nginx, PM2, and CI/CD pipelines
 
 ## Tech Stack
 
-```txt
-Backend       Node.js · NestJS · Express.js
-Database      PostgreSQL · MongoDB · Prisma · Mongoose
-Frontend      React · Next.js · Tailwind CSS
-Infra         Docker · Nginx · PM2 · Cloudflare
-Auth          JWT · Roles · Permissions
-Tools         Git · Postman · Redis · Cloudinary
-Queues        BullMQ · RabbitMQ
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,rabbitmq,docker,linux,nginx,githubactions,react,nextjs,ts,git,github" />
+</p>
 
 ## Featured Work
 
-### Mo3lamak
+<table>
+  <tr>
+    <td width="50%">
 
+### Mo3lamak
 Education platform backend with structured APIs, auth, and scalable data flow.
 
-### Qodratek100
+- Node.js / NestJS backend architecture
+- Role-based access and secure flows
+- Designed for production usage
 
+    </td>
+    <td width="50%">
+
+### Qodratek100
 Subscription-based learning platform serving real users in production.
 
-### EIA System
+- Around 4,000 users
+- JWT auth, quizzes, student tracking
+- Deployed and monitored on Ubuntu
 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### EIA System
 Academic platform backend with RBAC, CI/CD, and production operations.
 
-### Prnta
+- 4,000–5,000 students
+- Structured backend workflows
+- Automated deployment pipelines
 
-Print-commerce platform built around managed fulfillment and backend workflows.
-
-### Hexa Beach
-
-Reservation and booking system with admin operations and deployment management.
+    </td>
+    <td width="50%">
 
 ### Merncore Internal System
-
 Internal platform for tasks, approvals, notifications, and workflow automation.
+
+- BullMQ background jobs
+- Discord integrations
+- Shift tracking and operations tools
+
+    </td>
+  </tr>
+</table>
+
+### Hexa Beach
+Reservation and booking system with admin operations and deployment management.
+
+- Booking workflows
+- Production infrastructure
+- Stable backend operations
 
 ---
 
@@ -82,26 +106,19 @@ Internal platform for tasks, approvals, notifications, and workflow automation.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiMuhammadRashed&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiMuhammadRashed&theme=github-dark&hide_border=true&area=true" />
+</p>
+
 ---
 
-## Current Focus
+## Right Now
 
-* Cleaner backend architecture
-* Stronger API design
-* Better database modeling
-* Distributed systems and background jobs
-* Shipping maintainable production software
-
-## Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/stats/master/generated/overview.svg" width="360" />
-  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/stats/master/generated/languages.svg" width="360" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/stats/master/generated/top_repos.svg" width="720" />
-</p>
+- Cleaner backend architecture
+- Stronger API design
+- Better database modeling
+- Distributed systems and background jobs
+- Shipping maintainable production software
 
 ---
 
