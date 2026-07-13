@@ -1,30 +1,18 @@
 <div align="center">
 
-# Muhammad Rashed
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=760&lines=Muhammad+Rashed;Backend+Engineer;Co-Founder+at+Merncore;Building+production+grade+systems" alt="Typing SVG" />
 
-### Backend Engineer · Co-Founder at Merncore
+### I build backend systems, APIs, and product infrastructure that hold up in production.
 
-<p>
-  I build backend systems, APIs, and product infrastructure that hold up in production.
-</p>
-
-<p>
-  <a href="https://mrashed.menrcore.com">
-    <img src="https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/iiMuhammadRashed">
-    <img src="https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadrashed-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Rashed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://mrashed.menrcore.com)
+[![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iiMuhammadRashed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rashed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrashed-/)
 
 </div>
 
 ---
 
-## About Me
+## What I Do
 
 Backend-first software developer based in Alexandria, Egypt.
 
@@ -34,6 +22,8 @@ Backend-first software developer based in Alexandria, Egypt.
 - Full-stack diploma from **Route Academy**
 
 ## What I Build
+
+Systems that need to be reliable, scalable, and easy to operate.
 
 - REST APIs and backend services
 - Authentication, authorization, and RBAC
@@ -56,11 +46,19 @@ Backend-first software developer based in Alexandria, Egypt.
 ### Mo3lamak
 Education platform backend with structured APIs, auth, and scalable data flow.
 
+- Node.js / NestJS backend architecture
+- Role-based access and secure flows
+- Designed for production usage
+
     </td>
     <td width="50%">
 
 ### Qodratek100
 Subscription-based learning platform serving real users in production.
+
+- Around 4,000 users
+- JWT auth, quizzes, student tracking
+- Deployed and monitored on Ubuntu
 
     </td>
   </tr>
@@ -70,11 +68,19 @@ Subscription-based learning platform serving real users in production.
 ### EIA System
 Academic platform backend with RBAC, CI/CD, and production operations.
 
+- 4,000–5,000 students
+- Structured backend workflows
+- Automated deployment pipelines
+
     </td>
     <td width="50%">
 
 ### Merncore Internal System
 Internal platform for tasks, approvals, notifications, and workflow automation.
+
+- BullMQ background jobs
+- Discord integrations
+- Shift tracking and operations tools
 
     </td>
   </tr>
@@ -82,6 +88,10 @@ Internal platform for tasks, approvals, notifications, and workflow automation.
 
 ### Hexa Beach
 Reservation and booking system with admin operations and deployment management.
+
+- Booking workflows
+- Production infrastructure
+- Stable backend operations
 
 ---
 
@@ -102,7 +112,7 @@ Reservation and booking system with admin operations and deployment management.
 
 ---
 
-## Current Focus
+## Right Now
 
 - Cleaner backend architecture
 - Stronger API design
@@ -110,9 +120,7 @@ Reservation and booking system with admin operations and deployment management.
 - Distributed systems and background jobs
 - Shipping maintainable production software
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/iiMuhammadRashed/output/github-contribution-grid-snake-dark.svg" />
-</p>
+---
 
 <div align="center">
 
