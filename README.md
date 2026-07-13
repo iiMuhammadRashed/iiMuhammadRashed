@@ -6,7 +6,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://mrashed.menrcore.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.merncore.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://mrashed.menrcore.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iiMuhammadRashed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rashed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrashed-/)
 
