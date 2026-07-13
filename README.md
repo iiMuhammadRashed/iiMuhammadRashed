@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=C9D1D9&center=true&vCenter=true&width=720&lines=Muhammad+Rashed;Backend+Engineer;Co-Founder+at+Merncore" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=760&lines=Muhammad+Rashed;Backend+Engineer;Co-Founder+at+Merncore;Building+production+grade+systems" alt="Typing SVG" />
 
-### I build backend systems, APIs, and product infrastructure that actually hold up.
+### I build backend systems, APIs, and product infrastructure that hold up in production.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mrashed.menrcore.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iiMuhammadRashed)
@@ -12,9 +12,9 @@
 
 ---
 
-## What I’m About
+## What I Do
 
-Backend-first developer based in Alexandria, Egypt.
+Backend-first software developer based in Alexandria, Egypt.
 
 * Co-founder at **Merncore**
 * Advanced Backend Developer Bootcamp @ **Elevate**
@@ -23,23 +23,24 @@ Backend-first developer based in Alexandria, Egypt.
 
 ## What I Build
 
-Stuff that needs to be reliable in production.
+Systems that need to be reliable, scalable, and easy to operate.
 
 * REST APIs and backend services
 * Authentication, authorization, and RBAC
 * Admin dashboards and internal tools
-* Database design and optimization
-* Deployment, Linux servers, Nginx, PM2, and VPS workflows
+* Database design and performance tuning
+* Deployment, Linux servers, Nginx, PM2, and CI/CD pipelines
 
-## Stack
+## Tech Stack
 
 ```txt
-Backend       Node.js · Express.js · NestJS
+Backend       Node.js · NestJS · Express.js
 Database      PostgreSQL · MongoDB · Prisma · Mongoose
 Frontend      React · Next.js · Tailwind CSS
 Infra         Docker · Nginx · PM2 · Cloudflare
 Auth          JWT · Roles · Permissions
 Tools         Git · Postman · Redis · Cloudinary
+Queues        BullMQ · RabbitMQ
 ```
 
 ## Featured Work
@@ -48,29 +49,59 @@ Tools         Git · Postman · Redis · Cloudinary
 
 Education platform backend with structured APIs, auth, and scalable data flow.
 
-### Hexa Beach
+### Qodratek100
 
-Reservation system with booking logic, access control, and operational tooling.
+Subscription-based learning platform serving real users in production.
 
 ### EIA System
 
-Internal management platform for day-to-day business operations.
+Academic platform backend with RBAC, CI/CD, and production operations.
+
+### Prnta
+
+Print-commerce platform built around managed fulfillment and backend workflows.
+
+### Hexa Beach
+
+Reservation and booking system with admin operations and deployment management.
+
+### Merncore Internal System
+
+Internal platform for tasks, approvals, notifications, and workflow automation.
+
+---
+
+## Live Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iiMuhammadRashed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues,prs,contribs" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiMuhammadRashed&theme=github-dark-blue&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiMuhammadRashed&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+---
 
 ## Current Focus
 
 * Cleaner backend architecture
-* Better API design
-* Stronger database modeling
-* Shipping maintainable systems
+* Stronger API design
+* Better database modeling
+* Distributed systems and background jobs
+* Shipping maintainable production software
 
-## GitHub Activity
+## Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=iiMuhammadRashed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues,prs" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iiMuhammadRashed&theme=github-dark-blue&hide_border=true" height="170" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/stats/master/generated/overview.svg" width="360" />
+  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/stats/master/generated/languages.svg" width="360" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiMuhammadRashed&layout=compact&theme=github_dark&hide_border=true" height="170" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iiMuhammadRashed/stats/master/generated/top_repos.svg" width="720" />
+</p>
 
 ---
 
