@@ -1,59 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Muhammad+Rashed;Backend+Engineer+-+Node.js+and+NestJS;Co-Founder+and+CTO+at+Merncore" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=C9D1D9&center=true&vCenter=true&width=700&lines=Muhammad+Rashed;Backend+Engineer;Co-Founder+at+Merncore" alt="Typing SVG" />
 
-**Co-Founder & CTO @ Merncore · Backend Engineer (Node.js / NestJS)**
+### Building reliable backend systems, APIs, and product infrastructure.
 
-Building backend systems that ship to real users — not just diagrams on a whiteboard.
-<br/>
-🇪🇬 Alexandria, Egypt
-
-<br/>
-
-<a href="mailto:iimuhammad.rashed@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-390D5C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/muhammadrashed-"><img src="https://img.shields.io/badge/LinkedIn-Connect-252259?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/iiMuhammadRashed"><img src="https://img.shields.io/badge/GitHub-Follow-C9A84C?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mrashed.menrcore.com)
+[![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iiMuhammadRashed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rashed-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammadrashed-/)
 
 </div>
 
 ---
 
-### What I'm Building
+## About Me
 
-Backend systems for real users — 8,000+ across 4+ production platforms.
+Backend-focused software developer based in Alexandria, Egypt.
 
-| | Project | Description |
-|---|---|---|
-| 🎓 | **Mo3lamak** *(architecting)* | E-learning & video platform — modular monolith, DDD bounded contexts, Hexagonal/Clean Architecture, Nx monorepo |
-| 📚 | **Qodratek100** | Subscription-based learning platform, ~4,000 users in production (Saudi Arabia) — JWT auth, quizzes, RBAC |
-| 🏫 | **EIA Academic Platform** | Full backend for an academic platform serving 4,000–5,000 students |
-| 🏖️ | **Hexa Beach Booking** | Booking & admin backend for a reservations platform handling daily bookings |
-| ⚙️ | **Merncore Internal System** | Task management, approvals, notifications & shift tracking — BullMQ jobs, Discord integration |
+* Co-founder at **Merncore**
+* Advanced Backend Developer Bootcamp @ **Elevate**
+* Business Information Systems background
+* Full-stack diploma from **Route Academy**
 
-### Tech Stack
+## What I Build
 
+* Scalable REST APIs and backend services
+* Authentication, authorization, and RBAC systems
+* Admin dashboards and internal tools
+* Database design and optimization
+* Deployment, server setup, and production workflows
+
+## Tech Stack
+
+```txt
+Backend       Node.js · Express.js · NestJS
+Databases     PostgreSQL · MongoDB · Prisma · Mongoose
+Frontend      React · Next.js · Tailwind CSS
+Infra         Docker · Nginx · PM2 · Cloudflare
+Auth          JWT · Roles · Permissions
+Tools         Git · Postman · Redis · Cloudinary
 ```
-Backend        Node.js · NestJS · Express.js · REST APIs · Socket.IO
-Databases      PostgreSQL · MongoDB · TypeORM · Mongoose
-Queues/Cache   BullMQ · Redis · RabbitMQ
-Architecture   Monolith · Microservices · DDD · Hexagonal/Clean · Distributed Systems
-DevOps         Docker · GitHub Actions · CI/CD · Nginx · PM2 · Ubuntu
-Frontend       React · Next.js
-```
 
-### Currently Sharpening
+## Selected Work
 
-Advanced Backend Developer Bootcamp @ **Elevate** — distributed systems, the Saga pattern, rate limiting, and async processing across monolith and microservices setups.
+* **Mo3lamak API** — education platform backend
+* **Prnta** — print-commerce platform
+* **Hexa Beach** — reservation and booking system
+* **EIA System** — internal management system
+* **Merncore projects** — custom business software and client work
 
----
+## Currently Focused On
+
+* Backend architecture
+* Production-grade API design
+* Scalable database modeling
+* Clean code and maintainable systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iiMuhammadRashed&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com/?user=iiMuhammadRashed&theme=shades-of-purple&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=iiMuhammadRashed&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=iiMuhammadRashed&theme=github-dark-blue&hide_border=true" height="170" />
 
 <br/><br/>
 
-*Build it. Ship it. Keep it running.*
+*Clean APIs. Solid architecture. Production-first engineering.*
 
 </div>
