@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=C9D1D9&center=true&vCenter=true&width=700&lines=Muhammad+Rashed;Backend+Engineer;Co-Founder+at+Merncore" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=C9D1D9&center=true&vCenter=true&width=720&lines=Muhammad+Rashed;Backend+Engineer;Co-Founder+at+Merncore" alt="Typing SVG" />
 
-### Building reliable backend systems, APIs, and product infrastructure.
+### I build backend systems, APIs, and product infrastructure that actually hold up.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrashed.menrcore.com-7C3AED?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mrashed.menrcore.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iiMuhammadRashed-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iiMuhammadRashed)
@@ -12,9 +12,9 @@
 
 ---
 
-## About Me
+## What I’m About
 
-Backend-focused software developer based in Alexandria, Egypt.
+Backend-first developer based in Alexandria, Egypt.
 
 * Co-founder at **Merncore**
 * Advanced Backend Developer Bootcamp @ **Elevate**
@@ -23,45 +23,59 @@ Backend-focused software developer based in Alexandria, Egypt.
 
 ## What I Build
 
-* Scalable REST APIs and backend services
-* Authentication, authorization, and RBAC systems
+Stuff that needs to be reliable in production.
+
+* REST APIs and backend services
+* Authentication, authorization, and RBAC
 * Admin dashboards and internal tools
 * Database design and optimization
-* Deployment, server setup, and production workflows
+* Deployment, Linux servers, Nginx, PM2, and VPS workflows
 
-## Tech Stack
+## Stack
 
 ```txt
 Backend       Node.js · Express.js · NestJS
-Databases     PostgreSQL · MongoDB · Prisma · Mongoose
+Database      PostgreSQL · MongoDB · Prisma · Mongoose
 Frontend      React · Next.js · Tailwind CSS
 Infra         Docker · Nginx · PM2 · Cloudflare
 Auth          JWT · Roles · Permissions
 Tools         Git · Postman · Redis · Cloudinary
 ```
 
-## Selected Work
+## Featured Work
 
-* **Mo3lamak API** — education platform backend
-* **Prnta** — print-commerce platform
-* **Hexa Beach** — reservation and booking system
-* **EIA System** — internal management system
-* **Merncore projects** — custom business software and client work
+### Mo3lamak
 
-## Currently Focused On
+Education platform backend with structured APIs, auth, and scalable data flow.
 
-* Backend architecture
-* Production-grade API design
-* Scalable database modeling
-* Clean code and maintainable systems
+### Hexa Beach
+
+Reservation system with booking logic, access control, and operational tooling.
+
+### EIA System
+
+Internal management platform for day-to-day business operations.
+
+## Current Focus
+
+* Cleaner backend architecture
+* Better API design
+* Stronger database modeling
+* Shipping maintainable systems
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=iiMuhammadRashed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues,prs" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iiMuhammadRashed&theme=github-dark-blue&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiMuhammadRashed&layout=compact&theme=github_dark&hide_border=true" height="170" />
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iiMuhammadRashed&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-<img src="https://streak-stats.demolab.com/?user=iiMuhammadRashed&theme=github-dark-blue&hide_border=true" height="170" />
-
-<br/><br/>
-
-*Clean APIs. Solid architecture. Production-first engineering.*
+*Clean APIs. Solid architecture. Real production work.*
 
 </div>
