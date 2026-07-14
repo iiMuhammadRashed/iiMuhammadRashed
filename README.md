@@ -18,7 +18,7 @@
 
 I am a backend-first software developer based in Alexandria, Egypt. My focus is on engineering systems that are reliable, scalable, and easy to operate in production environments.
 
-- 🏢 **Co-founder** at [Merncore](https://mrashed.menrcore.com)
+- 🏢 **Co-founder** at [Merncore](https://merncore.com)
 - 🎓 **Advanced Backend Developer Bootcamp** @ Elevate
 - 🎓 **Full-stack Diploma** from Route Academy
 - 📚 Background in **Business Information Systems**
